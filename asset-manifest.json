@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttechlynq/WeatherApp-API.git/static/css/main.0736425d.css",
+    "main.js": "/ttechlynq/WeatherApp-API.git/static/js/main.a9453a41.js",
+    "static/js/787.d62d1c65.chunk.js": "/ttechlynq/WeatherApp-API.git/static/js/787.d62d1c65.chunk.js",
+    "index.html": "/ttechlynq/WeatherApp-API.git/index.html",
+    "main.0736425d.css.map": "/ttechlynq/WeatherApp-API.git/static/css/main.0736425d.css.map",
+    "main.a9453a41.js.map": "/ttechlynq/WeatherApp-API.git/static/js/main.a9453a41.js.map",
+    "787.d62d1c65.chunk.js.map": "/ttechlynq/WeatherApp-API.git/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0736425d.css",
+    "static/js/main.a9453a41.js"
+  ]
+}
